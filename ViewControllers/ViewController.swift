@@ -11,8 +11,8 @@ class ViewController: UIViewController {
     
     //Add player done
     //Add player done
-
     @IBOutlet weak var TitileSegView: UISegmentedControl!
+//MARK: Keeper view variable
     @IBOutlet weak var KeeperView: UIView!
     @IBOutlet weak var BatsmanView: UIView!
     @IBOutlet weak var AllRounderView: UIView!
