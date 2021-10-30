@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    //Add player done
+    
     @IBOutlet weak var TitileSegView: UISegmentedControl!
     @IBOutlet weak var KeeperView: UIView!
     @IBOutlet weak var BatsmanView: UIView!
